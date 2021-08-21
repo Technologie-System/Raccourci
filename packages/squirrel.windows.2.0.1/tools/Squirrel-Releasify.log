@@ -1,0 +1,9 @@
+﻿[21/08/21 13:57:06] info: Program: Starting Squirrel Updater: --releasify .\raccourci.3.5.0.nupkg --no-msi
+[21/08/21 13:57:06] info: Program: Bootstrapper EXE found at:C:\Users\User\source\repos\Technologie-System\Raccourci\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[21/08/21 13:57:06] info: Program: Creating release package: C:\Users\User\source\repos\Technologie-System\Raccourci\Releases\raccourci.3.5.0.nupkg
+[21/08/21 13:57:07] info: ReleasePackage: Creating release package: C:\Users\User\source\repos\Technologie-System\Raccourci\Releases\raccourci.3.5.0.nupkg => C:\Users\User\source\repos\Technologie-System\Raccourci\Releases\raccourci-3.5.0-full.nupkg
+[21/08/21 13:57:07] info: ReleasePackage: Extracting dependent packages: []
+[21/08/21 13:57:07] info: ReleasePackage: Removing unnecessary data
+[21/08/21 13:57:07] info: ReleasePackage: No release notes found in C:\Users\User\AppData\Local\SquirrelTemp\tempg\raccourci.nuspec
+[21/08/21 13:57:08] info: Program: Building embedded zip file for Setup.exe
+[21/08/21 13:57:08] info: Program: Finished Squirrel Updater
